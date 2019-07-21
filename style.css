@@ -46,8 +46,8 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
-  align: center;
-margin: 16px 0px 16px 0px;
+  flex-wrap: center;
+  margin: 16px 0px 16px 0px;
 }
 
 .btn-xl {
